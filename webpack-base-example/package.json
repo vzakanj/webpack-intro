@@ -1,0 +1,15 @@
+{
+  "name": "webpack-base-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Vedran Zakanj",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  }
+}
