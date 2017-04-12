@@ -11,6 +11,9 @@
   "author": "Vedran Zakanj",
   "license": "ISC",
   "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-latest": "^6.24.1",
     "webpack": "^2.3.3",
     "webpack-dev-server": "^2.4.2"
   }
